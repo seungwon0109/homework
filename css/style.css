@@ -41,7 +41,7 @@ background-color: #444;
 }
 
 body {
-    background-image: url('/과제/img/배경화면.png');
+    background-image: url('/img/배경화면.png');
     background-size: cover; /* 배경 이미지를 창에 꽉 채우도록 설정 */
     background-repeat: no-repeat; /* 배경 이미지 반복 안 함 */
     margin: 0; /* body의 기본 마진 제거 */

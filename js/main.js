@@ -1,7 +1,7 @@
 document.getElementById('time').innerHTML = new Date().toLocaleDateString();
 
 function showhtml() {
-    document.getElementById('coco').src = '/과제/img/코믹.png';
+    document.getElementById('coco').src = '/img/코믹.png';
     document.getElementById('desc').innerHTML = '<b>만드는 법</b>';
     }
 function hide() {
